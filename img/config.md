@@ -1,0 +1,1 @@
+helm repo add kedacore https://kedacore.github.io/charts
